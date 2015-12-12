@@ -1,4 +1,4 @@
-class BundlerCompletion < Formula
+class LaunchctlCompletion < Formula
   desc "Bash completion for Launchctl"
   homepage ""
   url "https://github.com/bobthecow/launchctl-completion",
