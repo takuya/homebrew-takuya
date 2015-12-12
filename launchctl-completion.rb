@@ -3,7 +3,6 @@ class LaunchctlCompletion < Formula
   homepage ""
   url "https://github.com/bobthecow/launchctl-completion",
     :revision => "f83bfbaa569d16f4951bae16aebff64fa498dfc7"
-  version "2"
 
   head "https://github.com/bobthecow/launchctl-completion.git"
 
