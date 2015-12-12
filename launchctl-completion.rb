@@ -6,7 +6,7 @@ class LaunchctlCompletion < Formula
   desc "Bash completion for launchctl"
   homepage "https://github.com/bobthecow/launchctl-completion"
   # head "https://github.com/bobthecow/launchctl-completion.git"
-  head "f83bfbaa569d16f4951bae16aebff64fa498dfc7"
+  sha "f83bfbaa569d16f4951bae16aebff64fa498dfc7"
 
   depends_on "bash-completion" # if your formula requires any X11/XQuartz components
 
